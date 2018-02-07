@@ -1,10 +1,10 @@
-html {
+html body {
   font-family: Helvetica;
-  text align: center;
+  text-align: center;
 }
 
 header {
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url(/Users/buddyagyin/Desktop/codecademy-website-development/Projects/broadway/resources/images/the-flatiron-building.png);
 }
 
 h1 {
