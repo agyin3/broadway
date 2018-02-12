@@ -11,6 +11,10 @@ h1 {
   font-size: 70px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 h2 {
   font-size: 32px;
 }
@@ -32,4 +36,19 @@ p {
 .menu {
   color: white;
   font-size: 18px;
+}
+
+footer {
+  background-color: dimgrey;
+  text-align: left;
+}
+
+.foot {
+  font-size: 11px;
+}
+
+.foot,
+.horizontal-list,
+.horizontal-list li {
+  display: inline;
 }
